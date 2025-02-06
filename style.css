@@ -5,7 +5,6 @@ body {
   padding: 0;
   background-color: #f9f9f9;
   color: #333;
-  line-height: 1.6;
 }
 
 /* En-tête */
@@ -79,7 +78,6 @@ button {
   padding: 10px;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
   transition: 0.3s;
   width: 100%;
 }
